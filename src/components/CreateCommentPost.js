@@ -57,7 +57,7 @@ class CreateCommentPost extends Component {
                         className="btn"
                         type="submit"
                         style={{ fontSize: '19px'}}
-                        value="Add Comment"/>
+                        value="Add Your Comment"/>
                 </form>
             </div>
 
